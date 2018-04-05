@@ -1,0 +1,4 @@
+[master:test]
+ansible01.testlab.local
+
+[master]
