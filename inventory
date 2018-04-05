@@ -1,4 +1,5 @@
-[master:test]
+[test]
 ansible01.testlab.local
 
-[master]
+[master:children]
+test
